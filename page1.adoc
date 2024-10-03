@@ -1,6 +1,6 @@
 test site 1
 ------------
-v1.0
+v2.0
 
 yo *yo* yo
 
