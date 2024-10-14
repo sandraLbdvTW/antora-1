@@ -2,13 +2,13 @@ test site 1
 ------------
 v2.0
 
-yo *yo* yo
+hello *hello*
 
 
 
 this site is
 ^^^^^^^^^^^
-* `p-r-e-t-t-y`
+* `r-a-d`
 
 
 
