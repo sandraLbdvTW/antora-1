@@ -1,14 +1,34 @@
-test site 1
-------------
-v2.0
+= All About Cats
+Cat Lover Extraordinaire
+:page-layout: default
+:toc: left
+:toclevels: 2
 
-hello *hello*
+== Introduction
 
+Welcome to the ultimate test page about cats. Here, we’ll explore the world of our furry feline friends.
 
+== Section 1: Cat Code
 
-this site is
-^^^^^^^^^^^
-* `r-a-d`
+Here’s a Python code block that prints a message from a cat:
 
+[source,python]
+----
+def meow():
+    print("Meow, I'm a cat!")
+----
 
+== Section 2: Cat Facts
 
+- Cats sleep for 12-16 hours a day.
+- Cats can make over 100 different sounds.
+- The oldest cat lived to be 38 years old!
+
+== Section 3: Useful Cat Links
+
+For more cat info, visit https://www.cats.org[The Cats Protection website].
+
+== Conclusion
+
+Cats are awesome. This concludes our test page about them.
+``
