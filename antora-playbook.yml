@@ -5,7 +5,7 @@ site:
 content:
   sources:
     - url: ./
-      branches: [v1.0, v2.0]
+      branches: [v1.0]
 
 ui:
   bundle:

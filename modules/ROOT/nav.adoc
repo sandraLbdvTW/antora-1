@@ -1,3 +1,2 @@
-* xref:ROOT:index.adoc[Home]
-* xref:ROOT:page1.adoc[Page 1]
-* xref:page2.adoc[Page 2]
+* xref:page1.adoc[Cats]
+* xref:page2.adoc[Dogs]
