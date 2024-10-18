@@ -1,3 +1,2 @@
 * xref:overview.adoc[Overview]
 * xref:ig.adoc[Installation Guide]
-* xref:page3.adoc[Cucumbers]
