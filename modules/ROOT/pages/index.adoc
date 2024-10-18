@@ -1,1 +1,2 @@
-*index112324.adoc*
+* xref:overview.adoc[Overview]
+* xref:ig.adoc[Installation Guide]
