@@ -1,6 +1,6 @@
 name: component-1
-title: Component 1
+title: Cats
 version: 2.0
-#nav:
-#  - modules/ROOT/nav.adoc
+nav:
+  - modules/ROOT/nav.adoc
 #  - modules/module-one/nav.adoc
